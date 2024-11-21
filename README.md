@@ -49,4 +49,6 @@ Privilege Escalation: Depending on the privileges of the PostgreSQL user, an att
 -Environment Variable Sanitization: Ensure that environment variables are properly sanitized and modifications are restricted.
 -Upgrade PostgreSQL: If a fix is released by the PostgreSQL Global Development Group, update to the latest version.
 -Audit Database Functions: Regularly audit user-created functions to detect and prevent potential exploitation.
+
+Discovered by Fabian Mora, November 2024.
    
