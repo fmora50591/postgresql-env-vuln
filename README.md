@@ -1,7 +1,8 @@
 # PostgreSQL Environment Variable Manipulation Vulnerability
 
 ## Description
-This repository documents a vulnerability identified in PostgreSQL versions 16.3 and 17.1 that allows for unauthorized manipulation of environment variables using `PL/Python` functions. This issue can lead to unauthorized command execution, privilege escalation, and other potential security impacts.
+This repository documents a vulnerability identified in PostgreSQL versions 16.3, 17.1 snf 17.2 that allows for unauthorized manipulation of environment variables using `PL/Python` functions. 
+This issue can lead to unauthorized command execution, privilege escalation, and other potential security impacts.
 
 ## Affected Products/Versions
 - **Product**: PostgreSQL
